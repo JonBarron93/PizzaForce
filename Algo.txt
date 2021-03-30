@@ -1,0 +1,5 @@
+Algo.txt
+1 suggest pizza to user
+2 ask user's alexa to order pizza
+3 ?
+4 profit

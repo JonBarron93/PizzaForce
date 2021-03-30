@@ -3,4 +3,3 @@ Algo.txt
 2 ask user's alexa to order pizza
 3 ?
 4 profit
-5 blast death grips to celebrate -git get got https://www.youtube.com/watch?v=HIrKSqb4H4A
